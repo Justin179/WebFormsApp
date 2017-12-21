@@ -22,6 +22,15 @@ namespace WebFormsApp {
         protected global::System.Web.UI.WebControls.TextBox txtName;
         
         /// <summary>
+        /// rfvName 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvName;
+        
+        /// <summary>
         /// txtEmail 控制項。
         /// </summary>
         /// <remarks>
@@ -31,6 +40,24 @@ namespace WebFormsApp {
         protected global::System.Web.UI.WebControls.TextBox txtEmail;
         
         /// <summary>
+        /// revEmail 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator revEmail;
+        
+        /// <summary>
+        /// rfvEmail 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvEmail;
+        
+        /// <summary>
         /// ddlColor 控制項。
         /// </summary>
         /// <remarks>
@@ -38,6 +65,15 @@ namespace WebFormsApp {
         /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlColor;
+        
+        /// <summary>
+        /// rfvColor 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvColor;
         
         /// <summary>
         /// btnSubmit 控制項。
